@@ -179,7 +179,7 @@ sections:
           isRequired: 'true'
         - type: TextFormControl
           name: Adresse
-          label: Name
+          label: Adresse
           hideLabel: false
           placeholder: Your name
           width: full
