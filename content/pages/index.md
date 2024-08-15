@@ -54,6 +54,15 @@ sections:
       - type: Link
         label: See all projects
         url: /projects
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /contact
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
