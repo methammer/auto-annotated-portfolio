@@ -178,7 +178,7 @@ sections:
           width: 1/2
           isRequired: 'true'
         - type: TextFormControl
-          name: name
+          name: Adresse
           label: Name
           hideLabel: false
           placeholder: Your name
