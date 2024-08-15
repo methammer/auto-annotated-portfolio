@@ -67,7 +67,7 @@ sections:
         actions:
           - type: Button
             label: ''
-            altText: ''
+            altText: 50$
             url: /
             showIcon: true
             icon: arrowRight
