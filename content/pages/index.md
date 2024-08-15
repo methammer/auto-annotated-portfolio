@@ -191,7 +191,7 @@ sections:
           placeholder: Tell me about your project
           width: full
           isRequired: true
-      submitLabel: Send Message
+      submitLabel: Envoyer
       elementId: contact-form
       styles:
         submitLabel:
