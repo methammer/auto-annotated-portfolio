@@ -184,6 +184,13 @@ sections:
           placeholder: Tell me about your project
           width: full
           isRequired: true
+        - type: TextFormControl
+          name: Adresse
+          label: Name
+          hideLabel: false
+          placeholder: Your name
+          width: full
+          isRequired: false
       submitLabel: Send Message
       elementId: contact-form
       styles:
