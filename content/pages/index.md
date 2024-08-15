@@ -70,7 +70,7 @@ sections:
             altText: 50$
             url: /
             showIcon: true
-            icon: arrowRight
+            icon: cart
             iconPosition: right
             style: primary
             elementId: ''
