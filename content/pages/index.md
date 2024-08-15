@@ -188,7 +188,7 @@ sections:
           name: Adresse
           label: Adresse
           hideLabel: false
-          placeholder: Your name
+          placeholder: Votre adresse...
           width: full
           isRequired: false
       submitLabel: Send Message
