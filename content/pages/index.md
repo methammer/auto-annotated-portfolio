@@ -66,7 +66,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: 50$
             altText: 50$
             url: /
             showIcon: true
