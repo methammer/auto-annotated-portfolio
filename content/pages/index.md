@@ -72,7 +72,7 @@ sections:
             showIcon: true
             icon: cart
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
         elementId: ''
         styles:
