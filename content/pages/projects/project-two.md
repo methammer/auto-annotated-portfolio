@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Another cool project
-colors: colors-b
+colors: colors-a
 date: ''
 client: TEST
 description: >-
